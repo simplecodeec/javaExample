@@ -9,3 +9,9 @@ public class Hello {
     }
 
 }
+
+
+// git init
+// git commit -m "first commit"
+// git remote add origin https://github.com/dyangua/javaExample.git
+// git push -u origin master
