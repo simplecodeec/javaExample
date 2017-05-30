@@ -15,6 +15,3 @@ public class Hello {
 // git commit -m "first commit"
 // git remote add origin https://github.com/dyangua/javaExample.git
 // git push -u origin master
-
-git remote add origin https://github.com/dyangua/javaExample.git
-git remote add example https://github.com/dyangua/javaExample.git
