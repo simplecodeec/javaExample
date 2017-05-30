@@ -4,7 +4,7 @@ public class Hello {
 
         for(int i=1;i<=10;i++){
 
-            System.out.println(i);
+            System.out.println("new"+ i);
         }
     }
 
@@ -15,3 +15,6 @@ public class Hello {
 // git commit -m "first commit"
 // git remote add origin https://github.com/dyangua/javaExample.git
 // git push -u origin master
+
+git remote add origin https://github.com/dyangua/javaExample.git
+git remote add example https://github.com/dyangua/javaExample.git
